@@ -26,4 +26,3 @@ Hola, jjjj
 echo "GitHub es lo mejor"
 
 confirmo
-:.
